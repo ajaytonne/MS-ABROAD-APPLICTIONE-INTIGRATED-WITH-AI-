@@ -1,0 +1,6 @@
+{
+  "name": "MS Abroad AI",
+  "description": "An premium, unbiased, India-specific study-abroad intelligence platform for MS programs abroad.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
